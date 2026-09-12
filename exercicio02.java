@@ -1,4 +1,5 @@
-import java.util.Scanner;git
+import java.util.Scanner;
+
 public class exercicio02 {
     public static void main(String[] args) {
     // Algoritmo que recebe um número e imprime se o número é par ou ímpar, positivo ou negativo
